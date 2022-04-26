@@ -2,8 +2,7 @@
   "name": "Alt Producer Local Testnet",
   "id": "alt_producer_local_testnet",
   "chainType": "Live",
-  "bootNodes": [
-  ],
+  "bootNodes": ["/dns/alt-producer-validator-1/tcp/30333/p2p/12D3KooWARdMLtRcQwxx6sHu6HLDatdzBPrptKp4o2Szt15Lyub9", "/dns/alt-producer-validator-2/tcp/30333/p2p/12D3KooWLvcA24g6sT9YTaQyinwowMbLF5z7iMLoxZpEiV9pSmNf", "/dns/alt-producer-validator-3/tcp/30333/p2p/12D3KooWDhp18HYzJuVX2jLhtjQgAhT1XWGqah42StoUJpkLvh2o", "/dns/alt-producer-validator-4/tcp/30333/p2p/12D3KooWEsPEadSjLAPyxckqVJkp54aVdPuX3DD6a1FTL2y5cB9x", "/dns/alt-producer-validator-5/tcp/30333/p2p/12D3KooWFfG1SQvcPoUK2N41cx7r52KYXKpRtZxfLZk8xtVzpp4d", "/dns/alt-producer-validator-6/tcp/30333/p2p/12D3KooWDmQPkBvQGg9wjBdFThtWj3QCDVQyHJ1apfWrHvjwbYS8", "/dns/alt-producer-validator-7/tcp/30333/p2p/12D3KooWBKtPpCnVTTzD7fPpCdFsrsYZ5K8fwmsLabb1JBuCycYs"],
   "telemetryEndpoints": null,
   "protocolId": "alt-producer-testnet",
   "properties": {
