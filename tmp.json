@@ -2,7 +2,7 @@
   "name": "Alt Producer Local Testnet",
   "id": "alt_producer_local_testnet",
   "chainType": "Live",
-  "bootNodes": ["/dns/alt-producer7-validator-1/tcp/30333/p2p/12D3KooWAhqHVi1mACMVdsgSaBJLkauNUNcdSv2XVY2k9jxdQwYg", "/dns/alt-producer7-validator-2/tcp/30333/p2p/12D3KooWPTicnda8G5WiKKGyLQXpBwPYTKK1ZFTZTgKatkaoAp4X", "/dns/alt-producer7-validator-3/tcp/30333/p2p/12D3KooWQkDU5am1nkRgkL8WPSriwiypG5R3yU4DyPmW3wz976Nh", "/dns/alt-producer7-validator-4/tcp/30333/p2p/12D3KooWGggJ6f97fgAxzfRDDZsf4vBuNZiezo8xRLDNwB7JaBKJ", "/dns/alt-producer7-validator-5/tcp/30333/p2p/12D3KooWC7M6gyKE52grTHH5ZkUUE9wY7ud8uH5JB4LcT6vNyCLf", "/dns/alt-producer7-validator-6/tcp/30333/p2p/12D3KooWK9U9HJaoJekmpECCykCGeyfjthxVVy8kj4pNGTcimwvf", "/dns/alt-producer7-validator-7/tcp/30333/p2p/12D3KooWNgq1sCReXtKY8jiiUSFMZK7RZwAnEDzzd551M9qrb7ao"],
+  "bootNodes": ["/dns/alt-producer7-validator-1/tcp/30333/p2p/12D3KooWEU99yQZzKx9cw7RRRHszaPuLWWqkMVgdG4J5YR8HTREe", "/dns/alt-producer7-validator-2/tcp/30333/p2p/12D3KooWEajzbRsSpeU2GwWy5GnpaJr73sDPXFwECYG9pbfQmHyL", "/dns/alt-producer7-validator-3/tcp/30333/p2p/12D3KooWM7xHtzmpYZNvTpTtdMRpZ58KjAMy4eMLqVmCJ5bNEsYR", "/dns/alt-producer7-validator-4/tcp/30333/p2p/12D3KooWN8tTisQtTATTHGethWU38YgzpGhLtrdm6qmdHv8tVT89", "/dns/alt-producer7-validator-5/tcp/30333/p2p/12D3KooWLoFfyZi1GPoeXssPzcVDSB1DV5v1Xb3GC2oC1BgkEK2W", "/dns/alt-producer7-validator-6/tcp/30333/p2p/12D3KooWMuWX5bW2r48Qwyq85CW8rYLvHhPzFm1LEPNw5VoLa1pH", "/dns/alt-producer7-validator-7/tcp/30333/p2p/12D3KooWQRi8UkYa7fJeu9W6Wr2xtZbjCMJrVY5iG41vkyCTDcJ4"],
   "telemetryEndpoints": null,
   "protocolId": "alt-producer-testnet",
   "properties": {
