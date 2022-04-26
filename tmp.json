@@ -2,6 +2,8 @@
   "name": "Alt Producer Local Testnet",
   "id": "alt_producer_local_testnet",
   "chainType": "Live",
+  "bootNodes": [
+  ],
   "telemetryEndpoints": null,
   "protocolId": "alt-producer-testnet",
   "properties": {
