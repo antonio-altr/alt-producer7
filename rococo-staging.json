@@ -3,7 +3,6 @@
   "id": "rococo_staging_testnet",
   "chainType": "Live",
   "bootNodes": [
-    "/ip4/127.0.0.1/tcp/30333/p2p/12D3KooWDe8WNrHewxgmDwwrZxLxUmpCkuXJmCUHNTrqwTebDpcF"
   ],
   "telemetryEndpoints": [
     [
