@@ -3,13 +3,6 @@
   "id": "alt_producer_testnet",
   "chainType": "Live",
   "bootNodes": [
-    "/dns/altlayer-producer-validator-1/tcp/30333/p2p/12D3KooWL8RnBvVKZdujiNSYR73gtKMLkvNbi6YUtB35JsK4ZmVH",
-    "/dns/altlayer-producer-validator-2/tcp/30333/p2p/12D3KooWJ53fit6gyoafKjGx9QfSBfcNa8piLXhpeiK55Zmk3kAT",
-    "/dns/altlayer-producer-validator-3/tcp/30333/p2p/12D3KooWKJTYuYXP2KP5YzaV5sheEczGtdmWGSqXRjjVs52SmAwx",
-    "/dns/altlayer-producer-validator-4/tcp/30333/p2p/12D3KooWC2ngFdzPqjq9Ye9DwtySrQttWJWKTZopxkNVTmdr1T5o",
-    "/dns/altlayer-producer-validator-5/tcp/30333/p2p/12D3KooWQFXSPHihfngL9eziAJ4LWuVM3NQiqGfRfH4uoA5GvtKm",
-    "/dns/altlayer-producer-validator-6/tcp/30333/p2p/12D3KooWPAT7LyvbZS7Svp6zUGFHmFaW7hiR8eD2HJpzvR2XXpm3",
-    "/dns/altlayer-producer-validator-7/tcp/30333/p2p/12D3KooWChJ2nxrvwEFZKuK1Tkwpyr2PhydXHEy9Db4PB78D7vsC"
   ],
   "telemetryEndpoints": null,
   "protocolId": "alt-producer-testnet",
