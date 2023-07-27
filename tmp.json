@@ -5,7 +5,7 @@
   "bootNodes": [
     "/dns/antonio-validator-1/tcp/30333/p2p/12D3KooWFB1kshAFNQMzHqyyWGcfdgzmcx8HGRgSygGCa2qGgL4z",
     "/dns/antonio-validator-2/tcp/30333/p2p/12D3KooWLP8Gkm5deYn7WA1KJVV5yEw4iQp7pUW7jb2yQ3pUyxvX"
-  ],
+  ],s
   "telemetryEndpoints": null,
   "protocolId": "antonio-testnet",
   "properties": {
